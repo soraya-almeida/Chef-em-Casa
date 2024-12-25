@@ -1,0 +1,140 @@
+.img {
+    width: 1050px;
+    height: 200px;
+
+}
+.imagem {
+    text-align: center;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p {
+    margin: 10px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon {
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+video {
+    width: 1000px;
+}
+.video1 {
+    text-align: center;
+}
+header {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+body {
+    background-color: #a5ff70;
+    text-align: center;
+}
+
+.d1 {
+    width: 200px;
+
+}
+.d2 {
+    width: 200px;
+    
+}
+.d3 {
+    width: 200px;
+    
+}
+.dep1 {
+    background-color: #fefffd;
+    border: 1px solid #076e10;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    box-shadow: 0 4px 6px rba(0, 0, 0, 0.1);
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.dep2 {
+    background-color: #ffffff;
+    border: 1px solid #076e10;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    box-shadow: 0 4px 6px rba(0, 0, 0, 0.1);
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.dep3 {
+    background-color: #ffffff;
+    border: 1px solid #076e10;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    box-shadow: 0 4px 6px rba(0, 0, 0, 0.1);
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    
+    
+}
+.depoimentos {
+    text-align: center;
+    gap: 10px;
+    display: flex;
+
+    
+}
+.butao {
+    text-align: center;
+}
+button {
+    border-radius: 25px;
+    width: 300px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.captura {
+    color: #076e10;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    padding: 50px 0 10px 0;
+}
+.rodape {
+    height: 250px;
+    width: 250px;
+    border: solid 5px green;
+    border-radius: 130px;
+    
+}
+.conteiner {
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    
+}
+.inputemail {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 40px;
+    width: 400px;
+}
+.enviar {
+    background-color: rgb(0, 0, 0);
+    height: 30px;
+    width: 100px;
+    color: rgb(255, 255, 255);
+}
